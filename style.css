@@ -1,0 +1,72 @@
+p {
+  color: red;
+  background-color: rgb(0, 0, 0);
+  font-family: "Arial";
+  font-size: 26px;
+}
+
+html {
+  background-color: rgb(75, 25, 75);
+}
+
+/*
+  this is a comment
+  */
+#red-herring {
+  color: red;
+}
+
+#violet {
+  color: violet;
+}
+
+.navigation {
+  list-style: none;
+}
+
+.navigation-link {
+  font-size; large;
+}
+
+p {
+  border: 1px solid black;
+}
+
+p {
+  margin: auto;
+  text-align: center;
+}
+
+h1 span {
+  border: 1px solid black;
+}
+
+img {
+  width: 200px;
+}
+
+#main {
+  width: 100px;
+  height: 100px;
+  border: 3px solid black;
+}
+
+#secondary {
+  width: 100px;
+  height: 100px;
+  border: 3px solid black;
+}
+#tertiary {
+  width: 100px;
+  height: 100px;
+  border: 3px solid black;
+}
+
+body {
+  background-attachment: fixed;
+  background-image: url("https://images.unsplash.com/photo-1518233405578-3a1812b9ce89?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=887ad0b0cab9e4fe57c15f05f61139a0&auto=format&fit=crop&w=700&q=80");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 300px;
+}
